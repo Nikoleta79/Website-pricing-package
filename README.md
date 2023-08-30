@@ -1,4 +1,6 @@
 # Website-pricing-package
+![IMG_20230830_104555](https://github.com/Nikoleta79/Website-pricing-package/assets/141028635/e01e3d98-7cc5-48d2-a9f2-724300f59b9d)
+
 # Pricing Panel
 
 A simple and responsive pricing panel showcasing different pricing plans with features and prices. This project is built using HTML and CSS.
