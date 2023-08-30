@@ -5,7 +5,6 @@
 
 A simple and responsive pricing panel showcasing different pricing plans with features and prices. This project is built using HTML and CSS.
 
-![Preview](screenshot.png)
 
 ## Table of Contents
 
